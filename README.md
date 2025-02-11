@@ -14,7 +14,7 @@ This project is a full CRUD job listing application built with React. It utilize
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-job-listing.git
+   git clone https://github.com/fred-18-hub/react-job-listing.git
    ```
 2. Navigate to the project directory:
    ```bash
